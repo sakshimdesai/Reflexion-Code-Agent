@@ -1,0 +1,11 @@
+Password: hello
+Password is too short: hello
+
+Password: Pass123!
+Strength Score: Excellent
+Feedback: Password is strong. All required elements are included: Password contains at least one uppercase letter., Password contains at least one lowercase letter., Password contains at least one digit., Password contains at least one special character..
+
+Password: MyP@ssw0rd2024
+Strength Score: Excellent
+Feedback: Password is strong. All required elements are included: Password contains at least one uppercase letter., Password contains at least one lowercase letter., Password contains at least one digit., Password contains at least one special character..
+

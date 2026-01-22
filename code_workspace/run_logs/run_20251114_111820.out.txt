@@ -1,0 +1,2 @@
+Top 10 prime numbers from the generated list:
+[977, 859, 839, 811, 661, 373, 157, 73, 41, 41]

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 9, in <module>
+    print(column, ":", df.some_nonexistent_method())
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\venv\Lib\site-packages\pandas\core\generic.py", line 6321, in __getattr__
+    return object.__getattribute__(self, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataFrame' object has no attribute 'some_nonexistent_method'

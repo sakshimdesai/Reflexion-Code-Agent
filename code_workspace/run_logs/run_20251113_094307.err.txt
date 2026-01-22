@@ -1,0 +1,4 @@
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 1
+    2. Use a different method to install matplotlib, such as using pip:
+       ^^^
+SyntaxError: invalid syntax

@@ -1,0 +1,2 @@
+Average salary per department: {'IT': 52500.0, 'HR': 42500.0, 'Marketing': 60000.0}
+Department with highest average salary: Marketing

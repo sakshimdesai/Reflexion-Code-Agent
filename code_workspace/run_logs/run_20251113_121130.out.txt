@@ -1,0 +1,6 @@
+{'name': 'Bob Johnson', 'marks': '95'}
+{'name': 'John Doe', 'marks': '90'}
+{'name': 'Jane Smith', 'marks': '85'}
+{'name': 'Mike Davis', 'marks': '78'}
+{'name': 'Alice Brown', 'marks': '70'}
+Zero division error. Cannot calculate average marks.

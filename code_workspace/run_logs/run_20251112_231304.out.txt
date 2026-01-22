@@ -1,0 +1,17 @@
+Requirement already satisfied: requests in c:\users\admin\onedrive\desktop\reflexion-agent\venv\lib\site-packages (2.32.5)
+Collecting beautifulsoup4
+  Using cached beautifulsoup4-4.14.2-py3-none-any.whl.metadata (3.8 kB)
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\users\admin\onedrive\desktop\reflexion-agent\venv\lib\site-packages (from requests) (3.4.4)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\admin\onedrive\desktop\reflexion-agent\venv\lib\site-packages (from requests) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\admin\onedrive\desktop\reflexion-agent\venv\lib\site-packages (from requests) (2.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\admin\onedrive\desktop\reflexion-agent\venv\lib\site-packages (from requests) (2025.11.12)
+Collecting soupsieve>1.2 (from beautifulsoup4)
+  Using cached soupsieve-2.8-py3-none-any.whl.metadata (4.6 kB)
+Requirement already satisfied: typing-extensions>=4.0.0 in c:\users\admin\onedrive\desktop\reflexion-agent\venv\lib\site-packages (from beautifulsoup4) (4.15.0)
+Using cached beautifulsoup4-4.14.2-py3-none-any.whl (106 kB)
+Using cached soupsieve-2.8-py3-none-any.whl (36 kB)
+Installing collected packages: soupsieve, beautifulsoup4
+
+Successfully installed beautifulsoup4-4.14.2 soupsieve-2.8
+Installing required libraries...
+HTTP error occurred: 403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/Python_(programming_language)

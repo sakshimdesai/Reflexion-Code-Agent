@@ -1,0 +1,2 @@
+C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py:37: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()

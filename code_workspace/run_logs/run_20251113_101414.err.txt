@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 54, in <module>
+    result = check_password_strength(password)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 48, in check_password_strength
+    return {"strength_score": ["Poor", "Fair", "Good", "Excellent"][min(strength_score, 4)], "feedback": feedback}
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: list index out of range

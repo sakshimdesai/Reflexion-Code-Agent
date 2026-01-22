@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 37, in <module>
+    main()
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 31, in main
+    average_salaries, max_average_salary_department = calculate_average_salaries(csv_file)
+                                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 19, in calculate_average_salaries
+    raise ValueError("Missing required columns in the CSV file.")
+ValueError: Missing required columns in the CSV file.

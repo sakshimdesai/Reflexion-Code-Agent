@@ -1,0 +1,10 @@
+1. Contents
+2. History
+3. Design philosophy and features
+4. Syntax and semantics
+5. Indentation
+6. Statements and control flow
+7. Expressions
+8. Typing
+9. Arithmetic operations
+10. Function syntax
