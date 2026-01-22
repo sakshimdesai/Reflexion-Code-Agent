@@ -1,0 +1,8 @@
+Missing required columns in the CSV file: name, department, salary
+Average salaries per department:
+department
+HR           42500.0
+IT           52500.0
+Marketing    60000.0
+Name: salary, dtype: float64
+Department with highest average salary: Marketing

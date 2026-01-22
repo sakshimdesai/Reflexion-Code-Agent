@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 3, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'

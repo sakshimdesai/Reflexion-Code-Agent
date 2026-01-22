@@ -1,0 +1,3 @@
+API key not provided. Using dummy API key.
+HTTP Error: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=London&appid=None
+Failed to fetch weather data.

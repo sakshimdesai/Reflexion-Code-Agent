@@ -1,0 +1,5 @@
+Password: hello
+Strength Score: Poor
+Feedback: ['Password is too short. Minimum length is 8 characters.', 'Password should contain at least one uppercase letter.', 'Password contains at least one lowercase letter.', 'Password should contain at least one digit.', 'Password should contain at least one special character.']
+
+Password: Pass123!

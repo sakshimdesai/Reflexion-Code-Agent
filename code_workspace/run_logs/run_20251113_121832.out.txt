@@ -1,0 +1,7 @@
+John                 4
+Doe                  5
+120 jefferson st.    4
+Riverside            5
+ NJ                  5
+ 08075               5
+dtype: int64

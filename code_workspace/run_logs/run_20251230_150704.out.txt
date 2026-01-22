@@ -1,0 +1,12 @@
+Input List: [10, 2, 0, 5, 8]
+Division Results:
+10 / 2 = 5.0
+Error: Cannot divide 10 by zero (0)
+10 / 5 = 2.0
+10 / 8 = 1.25
+Error: Cannot divide 2 by zero (0)
+2 / 5 = 0.4
+2 / 8 = 0.25
+0 / 5 = 0.0
+0 / 8 = 0.0
+5 / 8 = 0.625

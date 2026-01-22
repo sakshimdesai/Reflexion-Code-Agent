@@ -1,0 +1,13 @@
+Results:
+10.0 / 5.0 = 2.0
+20.0 / 5.0 = 4.0
+30.0 / 5.0 = 6.0
+0.0 / 5.0 = 0.0
+40.0 / 5.0 = 8.0
+
+Results with divisor as zero:
+Cannot divide 10.0 by zero.
+Cannot divide 20.0 by zero.
+Cannot divide 30.0 by zero.
+Cannot divide 0.0 by zero.
+Cannot divide 40.0 by zero.

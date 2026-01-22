@@ -1,0 +1,27 @@
+
+Password: 'password'
+Length: 15/15 (minimum 8 characters)
+Lowercase letters: 15/15 (found)
+Weak password (less than 40%)
+Password strength score: 30.00%
+---
+
+Password: 'Pass123!'
+Length: 15/15 (minimum 8 characters)
+Uppercase letters: 15/15 (found)
+Lowercase letters: 15/15 (found)
+Numbers: 15/15 (found)
+Special characters: 20/20 (found)
+Medium password (between 40-80% strength)
+Password strength score: 80.00%
+---
+
+Password: 'MyP@ssw0rd2024'
+Length: 15/15 (minimum 8 characters)
+Uppercase letters: 15/15 (found)
+Lowercase letters: 15/15 (found)
+Numbers: 15/15 (found)
+Special characters: 20/20 (found)
+Medium password (between 40-80% strength)
+Password strength score: 80.00%
+---

@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 41, in <module>
+    main()
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 34, in main
+    section_headings = scrape_wikipedia_page(url)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 19, in scrape_wikipedia_page
+    raise Exception(f"Failed to retrieve page. Status code: {response.status_code}")
+Exception: Failed to retrieve page. Status code: 403

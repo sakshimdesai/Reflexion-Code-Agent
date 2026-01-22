@@ -1,0 +1,4 @@
+Repository name: cpython
+Number of stars: 69831
+Number of forks: 33397
+Primary language: Python

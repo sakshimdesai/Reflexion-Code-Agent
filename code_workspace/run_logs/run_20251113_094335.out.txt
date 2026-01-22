@@ -1,0 +1,6 @@
+Total Sales per Product:
+Apple: 3603
+Orange: 2982
+Banana: 3816
+
+Product with highest total sales: Banana

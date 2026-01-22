@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 33, in <module>
+    main()
+  File "C:\Users\Admin\OneDrive\Desktop\reflexion-agent\code_workspace\task.py", line 30, in main
+    print(f"The factorial of {num} is: {result}")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Exceeds the limit (4300 digits) for integer string conversion; use sys.set_int_max_str_digits() to increase the limit

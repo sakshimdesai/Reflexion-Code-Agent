@@ -1,0 +1,11 @@
+First 10 Fibonacci numbers:
+Fibonacci_1: 0
+Fibonacci_2: 1
+Fibonacci_3: 1
+Fibonacci_4: 2
+Fibonacci_5: 3
+Fibonacci_6: 5
+Fibonacci_7: 8
+Fibonacci_8: 13
+Fibonacci_9: 21
+Fibonacci_10: 34
