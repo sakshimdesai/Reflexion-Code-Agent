@@ -3,8 +3,6 @@
 A self-correcting AI code generation agent that writes Python code, executes it automatically, detects errors, and fixes them iteratively. 
 No copy-paste needed—just describe what you want and watch the agent deliver working code.
 
-**Live Demo:** [reflexion-code-agent.streamlit.app](https://reflexion-code-agent-9cgmoe7yrhrmaxa8rng5bx.streamlit.app/)
-
 ## What Problem Does This Solve?
 
 Normally, using AI for code generation is a loop: get code → copy it → run it → hit errors → paste error back → repeat.
