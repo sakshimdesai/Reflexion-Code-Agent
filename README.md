@@ -46,14 +46,7 @@ This is **agentic AI**: the model observes its own execution output and adapts i
 
 ## Quick Start
 
-### Online (No Setup Required)
 
-Visit the live demo: **[reflexion-code-agent.streamlit.app](https://reflexion-code-agent-9cgmoe7yrhrmaxa8rng5bx.streamlit.app/)**
-
-1. Enter your task (e.g., "Sort a list and print the output")
-2. Adjust settings (model, max iterations, temperature)
-3. Click **🚀 Generate & Run**
-4. Watch the agent work and see results
 
 ### Local Setup
 
@@ -291,4 +284,4 @@ Built with curiosity about agentic AI and the power of execution feedback loops.
 
 ---
 
-**Try it now:** [reflexion-code-agent.streamlit.app](https://reflexion-code-agent-9cgmoe7yrhrmaxa8rng5bx.streamlit.app/)
+
