@@ -39,7 +39,7 @@ class ReflexionCodeAgent:
 
     def __init__(
         self,
-        model: str = "llama-3.1-8b-instant",
+        model: str = "openai/gpt-oss-20b",
         max_iterations: int = 5,
         timeout: int = 60,
         temperature: float = 0.0,
@@ -199,7 +199,7 @@ class ReflexionCodeAgent:
 # ------------------------------------------------------
 if __name__ == "__main__":
     agent = ReflexionCodeAgent()
-    print("🧪 Testing Reflexion Agent...")
+    print(" Testing Reflexion Agent...")
     result = agent.generate_code("Print the first 10 Fibonacci numbers")
     print("✅ Success:", result["success"])
     print("🔄 Iterations:", result["iterations"])
